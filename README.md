@@ -60,7 +60,7 @@ with:
 ### For organizations
 
 ```YAML
-uses: BlueberryMC/actions-set-secret@v3.0.0
+uses: BlueberryMC/actions-set-secret@v3.0.3
 with:
   name: 'MY_SECRET_NAME'
   value: 'Lorem ipsun dolor simit'
