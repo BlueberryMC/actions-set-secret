@@ -1,6 +1,6 @@
 {
   "name": "secret-updater",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "repository": "https://github.com/hmanzur/actions-set-secret",
   "license": "MIT License",
   "scripts": {
@@ -8,7 +8,7 @@
     "build": "ncc build index.js -o dist"
   },
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.10.0",
     "@actions/github": "^4.0.0",
     "@octokit/core": "^3.1.2",
     "eslint": "^7.6.0",

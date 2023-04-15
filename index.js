@@ -2,7 +2,7 @@ const Core = require('@actions/core')
 const Api = require('./src/api')
 
 /**
- * Set secrets in Github repo
+ * Set secrets in GitHub repo
  * This actions is participating in #ActionsHackathon 2020
  *
  * @param {Api} api - Api instance

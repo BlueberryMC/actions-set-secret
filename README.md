@@ -49,7 +49,7 @@ Response json payload
 ### For personal repo
 
 ```YAML
-uses: hmanzur/actions-set-secret@v2.0.0
+uses: BlueberryMC/actions-set-secret@v3.0.0
 with:
   name: 'MY_SECRET_NAME'
   value: 'Lorem ipsun dolor simit'
@@ -60,7 +60,7 @@ with:
 ### For organizations
 
 ```YAML
-uses: hmanzur/actions-set-secret@v2.0.0
+uses: BlueberryMC/actions-set-secret@v3.0.0
 with:
   name: 'MY_SECRET_NAME'
   value: 'Lorem ipsun dolor simit'
